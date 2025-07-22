@@ -1,0 +1,50 @@
+{
+  "Math": [
+    {"q": "What is 2 + 2?", "a": "4", "choices": ["2", "3", "4", "5"]},
+    {"q": "What is 5 * 6?", "a": "30", "choices": ["11", "30", "35", "60"]},
+    {"q": "What is 12 / 3?", "a": "4", "choices": ["3", "4", "5", "6"]},
+    {"q": "What is 8 - 3?", "a": "5", "choices": ["4", "5", "6", "7"]},
+    {"q": "What is 9 * 9?", "a": "81", "choices": ["72", "81", "90", "99"]},
+    {"q": "What is 15 + 27?", "a": "42", "choices": ["40", "41", "42", "43"]},
+    {"q": "What is 100 / 5?", "a": "20", "choices": ["15", "20", "25", "30"]},
+    {"q": "What is 7 * 8?", "a": "56", "choices": ["54", "56", "58", "64"]},
+    {"q": "What is 50 - 23?", "a": "27", "choices": ["25", "26", "27", "28"]},
+    {"q": "What is 6^2?", "a": "36", "choices": ["30", "32", "36", "42"]}
+  ],
+  "History": [
+    {"q": "Who discovered America?", "a": "Columbus", "choices": ["Newton", "Einstein", "Columbus", "Lincoln"]},
+    {"q": "In which year did World War II end?", "a": "1945", "choices": ["1943", "1944", "1945", "1946"]},
+    {"q": "Who was the first President of the United States?", "a": "Washington", "choices": ["Adams", "Jefferson", "Washington", "Franklin"]},
+    {"q": "Which empire was ruled by Julius Caesar?", "a": "Roman", "choices": ["Greek", "Roman", "Egyptian", "Persian"]},
+    {"q": "In which year did the Berlin Wall fall?", "a": "1989", "choices": ["1987", "1988", "1989", "1990"]},
+    {"q": "Who painted the Mona Lisa?", "a": "Da Vinci", "choices": ["Picasso", "Da Vinci", "Van Gogh", "Monet"]},
+    {"q": "Which ancient wonder was located in Alexandria?", "a": "Lighthouse", "choices": ["Pyramid", "Lighthouse", "Colossus", "Gardens"]},
+    {"q": "Who was known as the Iron Lady?", "a": "Thatcher", "choices": ["Gandhi", "Thatcher", "Meir", "Bhutto"]},
+    {"q": "In which year did the Titanic sink?", "a": "1912", "choices": ["1910", "1911", "1912", "1913"]},
+    {"q": "Which civilization built Machu Picchu?", "a": "Inca", "choices": ["Maya", "Aztec", "Inca", "Olmec"]}
+  ],
+  "Science": [
+    {"q": "What is the chemical symbol for gold?", "a": "Au", "choices": ["Go", "Gd", "Au", "Ag"]},
+    {"q": "How many bones are in the human body?", "a": "206", "choices": ["204", "206", "208", "210"]},
+    {"q": "What is the speed of light?", "a": "299,792,458 m/s", "choices": ["299,792,458 m/s", "300,000,000 m/s", "299,000,000 m/s", "298,792,458 m/s"]},
+    {"q": "What gas do plants absorb from the atmosphere?", "a": "Carbon dioxide", "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"]},
+    {"q": "What is the largest planet in our solar system?", "a": "Jupiter", "choices": ["Saturn", "Jupiter", "Neptune", "Uranus"]},
+    {"q": "What is the smallest unit of matter?", "a": "Atom", "choices": ["Molecule", "Atom", "Electron", "Proton"]},
+    {"q": "What is the chemical formula for water?", "a": "H2O", "choices": ["H2O", "CO2", "O2", "H2SO4"]},
+    {"q": "How many chambers does a human heart have?", "a": "4", "choices": ["2", "3", "4", "5"]},
+    {"q": "What is the hardest natural substance?", "a": "Diamond", "choices": ["Gold", "Iron", "Diamond", "Quartz"]},
+    {"q": "At what temperature does water boil?", "a": "100°C", "choices": ["90°C", "95°C", "100°C", "105°C"]}
+  ],
+  "Geography": [
+    {"q": "What is the capital of France?", "a": "Paris", "choices": ["London", "Berlin", "Paris", "Madrid"]},
+    {"q": "Which is the longest river in the world?", "a": "Nile", "choices": ["Amazon", "Nile", "Mississippi", "Yangtze"]},
+    {"q": "What is the smallest country in the world?", "a": "Vatican City", "choices": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"]},
+    {"q": "Which mountain range contains Mount Everest?", "a": "Himalayas", "choices": ["Andes", "Alps", "Himalayas", "Rockies"]},
+    {"q": "What is the largest ocean?", "a": "Pacific", "choices": ["Atlantic", "Pacific", "Indian", "Arctic"]},
+    {"q": "Which desert is the largest in the world?", "a": "Antarctica", "choices": ["Sahara", "Gobi", "Antarctica", "Arabian"]},
+    {"q": "What is the capital of Australia?", "a": "Canberra", "choices": ["Sydney", "Melbourne", "Canberra", "Perth"]},
+    {"q": "Which country has the most time zones?", "a": "France", "choices": ["Russia", "USA", "China", "France"]},
+    {"q": "What is the deepest point on Earth?", "a": "Mariana Trench", "choices": ["Dead Sea", "Grand Canyon", "Mariana Trench", "Crater Lake"]},
+    {"q": "Which continent has the most countries?", "a": "Africa", "choices": ["Asia", "Europe", "Africa", "South America"]}
+  ]
+}
